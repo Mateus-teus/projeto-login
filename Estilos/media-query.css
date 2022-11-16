@@ -27,6 +27,10 @@
         width: 950px;
     }
 
+    body{
+        background-image: linear-gradient(to top,#49a09d, #5f2c82);
+    }
+
     section#login > div#imagem{
         float: left;
         width: 50%;
