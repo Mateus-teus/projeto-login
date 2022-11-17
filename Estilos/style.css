@@ -67,7 +67,7 @@ div#formulario > p{
 form > div.campo{
     background-color: #5f2c82;
     display: block;
-    width: 100%;
+    width: 98%;
     height: 40px;
     border-radius: 5px;
     margin: 5px 0px;
@@ -76,7 +76,7 @@ form > div.campo{
 form > div.login{
     background-color: #5f2c82;
     display: block;
-    width: 100%;
+    width: 98%;
     height: 40px;
     border-radius: 8px;
     margin: 5px 0px;
@@ -97,7 +97,7 @@ div.campo > i, div.login > i{
 div.campo > input, div.login > input{
     background-color: #94cfcd;
     font-size: 1em;
-    width: calc(100%-44px);
+    width: calc(100%-42px);
     height: 100%;
     border: 0px;
     border-radius: 8px;
